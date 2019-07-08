@@ -1,4 +1,4 @@
-package com.br.projeto.onibus;
+package com.br.projetoOnibus;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
