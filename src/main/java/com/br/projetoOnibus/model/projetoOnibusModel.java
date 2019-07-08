@@ -15,6 +15,8 @@ public class projetoOnibusModel {
 	}
 	
 	
+	
+	
 	public projetoOnibusModel(String empresa, String destino, int tempoViagem, String acentos, String acentosLivres,
 			String clientes) {
 		super();
@@ -60,8 +62,7 @@ public class projetoOnibusModel {
 	public String getAcentos() {
 		return acentos;
 	}
-
-
+ 
 	public void setAcentos(String acentos) {
 		this.acentos = acentos;
 	}
